@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pembayaran Digital</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Pembayaran Digital</h1>
+        <div class="payment-method">
+            <img src="dana-logo.png" alt="DANA" class="logo">
+            <p>DANA: <span>083839397816</span></p>
+        </div>
+        <div class="payment-method">
+            <img src="ovo-logo.png" alt="OVO" class="logo">
+            <p>OVO: <span>083839397816</span></p>
+        </div>
+        <div class="payment-method">
+            <img src="qris-logo.png" alt="QRIS" class="logo">
+            <p>QRIS:</p>
+            <img src="" alt="QRIS QR Code" class="qris-img">
+        </div>
+    </div>
+</body>
+</html>
